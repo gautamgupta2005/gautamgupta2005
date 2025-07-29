@@ -42,7 +42,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  &nbsp;&nbsp;
   <a href="mailto:gautam9gupta2005@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
   </a>
